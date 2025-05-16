@@ -42,15 +42,6 @@
   </tr>
 </table>
 
-### Launch the app
-
-Use the following command to run the app in your localhost.
-
-```
-npm start
-```
-
-
 ## Show your support
 
 Give it a ⭐️ if you like it.

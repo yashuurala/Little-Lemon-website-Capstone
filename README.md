@@ -11,10 +11,6 @@
     <img src="https://img.shields.io/badge/React Responsive Carousel-FFFFFF?style=for-the-badge&logo=react-responsive-carousel&logoColor=000000" alt="React Responsive Carousel" />
 </p>
 
-
-  
-  <h3 align="center"><a href="https://little-lemon-restaurant.netlify.app/"><strong>« Try the demo here »</strong></a></h3>
-
   <p align="center"> 
     Little Lemon Restaurant, a family run Mediterranean restaurant located in Chicago, Illinois. Please come and enjoy our wide selection of authentic Mediterranean cuisine!
   </p>
